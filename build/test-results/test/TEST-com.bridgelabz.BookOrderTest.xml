@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.BookOrderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-20T10:55:08" hostname="FH400" time="2.675">
+  <properties/>
+  <testcase name="searchBookByEmptyTitle" classname="com.bridgelabz.BookOrderTest" time="2.675"/>
+  <system-out><![CDATA[{
+    "sucess": false,
+    "message": "Error while retrieving books details",
+    "errors": 500
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

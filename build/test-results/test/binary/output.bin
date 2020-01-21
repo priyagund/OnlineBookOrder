@@ -1,0 +1,5 @@
+{
+    "sucess": false,
+7    "message": "Error while retrieving books details",
+    "errors": 500
+}
